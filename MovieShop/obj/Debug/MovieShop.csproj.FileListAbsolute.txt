@@ -1,0 +1,3 @@
+C:\Users\46722\OneDrive\Documents\Lexicon\MovieShop\MovieShop\obj\Debug\MovieShop.csprojAssemblyReference.cache
+C:\Users\46722\OneDrive\Documents\Lexicon\MovieShop\MovieShop\obj\Debug\MovieShop.csproj.CoreCompileInputs.cache
+C:\Users\46722\OneDrive\Documents\Lexicon\MovieShop\MovieShop\obj\Debug\MovieShop.csproj.AssemblyReference.cache
